@@ -4,7 +4,7 @@
   FDMPI Dataset
 </h1>
 
-<h1 style="text-align:center; font-size:24px;font-family:'Times New Roman', serif;">
+<h1 style="text-align:center; font-size:16px;font-family:'Times New Roman', serif;">
   Shang Zhang
 </h1>
 
