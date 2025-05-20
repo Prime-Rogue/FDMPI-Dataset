@@ -21,7 +21,7 @@ The original FDMPI dataset is comprised of 325 images containing 415 defect samp
 
 **How to use the database:**
 
-This dataset supports YOLO format and can be used for object detection and semantic segmentation.
+This dataset supports VOC format and can be used for object detection and semantic segmentation.
 
 **Download:**
 
